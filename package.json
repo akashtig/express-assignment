@@ -6,9 +6,9 @@
     "node": "^12.16.1"
   },
   "main": "app.js",
-   "scripts": {
+  "scripts": {
     "start": "node app.js"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akashtig/express-assignment.git"
