@@ -1,18 +1,14 @@
 {
   "name": "express-assignment",
-  "version": "1.0.0",
-  "description": "",
+ "version": "1.0.0",
   "engines": {
     "node": "^12.16.1"
   },
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akashtig/express-assignment.git"
-  },
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
